@@ -5,18 +5,18 @@ cat > README.md <<EOF
 
 ## O‘rnatish:
 
-\`\`\`bash
+```bash
 mkdir -p ~/.local/bin
 cp react ~/.local/bin/react
 chmod +x ~/.local/bin/react
 echo 'export PATH="\$HOME/.local/bin:\$PATH"' >> ~/.zshrc && source ~/.zshrc
-\`\`\`
+```
 
 ## Ishlatish:
 
-\`\`\`bash
+```bash
 react
-\`\`\`
+```
 
 ## Muallif:
 Gojo Developer 💙
