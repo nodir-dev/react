@@ -7,20 +7,19 @@ echo -e "\e[0m"
 read -p "📝 Loyiha nomini kiriting: " projectName
 echo -e "\n🚀 $projectName loyihasi yaratilmoqda...\n"
 
-# Vite + React loyihasini yaratish (chiqishini yashiramiz)
+# Vite + React loyihasini yaratish (chiqishni yashiramiz)
 npx create-vite@latest "$projectName" --template react > /dev/null 2>&1
 
 cd "$projectName"
 
-# Paketlarni o‘rnatish (chiqishini yashiramiz)
-npm install > /dev/null 2>&1
-npm install -D tailwindcss postcss autoprefixer @tailwindcss/vite @vitejs/plugin-react > /dev/null 2>&1
+# Paketlarni o‘rnatish (chiqishni butunlay tozalaymiz)
+npm install --silent
+npm install -D tailwindcss postcss autoprefixer @tailwindcss/vite @vitejs/plugin-react --silent
 npx tailwindcss init -p > /dev/null 2>&1
-# React Router Dom ni yuklash
-npm install react-router-dom
 
-# React-Icons ni yuklash 
-npm install react-icons
+# Router va Icons (ham yashirin)
+npm install react-router-dom --silent
+npm install react-icons --silent
 
 # App.css ni o‘chirish
 rm -f src/App.css
@@ -72,5 +71,4 @@ EOF
 echo -e "\n✅ Tayyor! Loyihani ishga tushurish uchun:"
 echo -e "\e[1;32mcd $projectName && npm run dev\e[0m"
 
-# npm error chiqmasligi uchun chiqishni to‘liq tozalab qo‘yamiz
 exit 0
