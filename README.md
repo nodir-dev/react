@@ -47,6 +47,7 @@ nano ~/.local/bin/react
 
 # 3. Ruxsat berish
 chmod +x ~/.local/bin/react
+```
 
 
 🔁 Agar terminal buyruqlarini tanimasa:
