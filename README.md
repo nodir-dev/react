@@ -66,8 +66,6 @@ echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc && source ~/.zshrc
 react
 ```
 <img src="./assets/run-code.png" alt="Loyiha Ishlash jarayoni" width="700" style="border-radius: 50px;" />
-________________________________________________________
-
 
 🧾 Misol natija:
 ``` bash
