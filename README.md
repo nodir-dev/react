@@ -20,7 +20,10 @@ react
 
 ## Muallif:
 Gojo Developer 💙
-EOF
+
+Telegram : @Gojo_Developer
+
+YouTube : @Gojo_Developer
 
 git add README.md
 git commit -m "Add README.md"
