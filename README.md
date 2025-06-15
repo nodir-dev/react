@@ -77,7 +77,7 @@ cd blog && npm run dev
 ```
 _______________________________________________________
 
-<img src="./assets/github.png" alt="Loyiha boshlanishi" width="500" style="border-radius: 12px;" />
+<img src="./assets/github.png" alt="Loyiha Ishlash jarayoni" width="900" style="border-radius: 20px;" />
 
 _______________________________________________________
 
