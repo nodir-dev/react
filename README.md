@@ -53,8 +53,7 @@ chmod +x ~/.local/bin/react
 Bash foydalanuvchilari uchun:
 
 ```bash
-echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc && source ~/.bashrc
-```
+echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc && source ~/.bashrc```
 Zsh foydalanuvchilari uchun:
 
 ```bash
