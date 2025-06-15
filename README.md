@@ -65,6 +65,10 @@ echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc && source ~/.zshrc
 ```bash
 react
 ```
+________________________________________________________
+
+<img src="./assets/.png" alt="Loyiha Ishlash jarayoni" width="700" style="border-radius: 50px;" />
+________________________________________________________
 🧾 Misol natija:
 ```bash
 $ react
@@ -77,7 +81,7 @@ cd blog && npm run dev
 ```
 _______________________________________________________
 
-<img src="./assets/run.png" alt="Loyiha Ishlash jarayoni" width="900" style="border-radius: 50px;" />
+<img src="./assets/run_code.png" alt="Loyiha Ishlash jarayoni" width="900" style="border-radius: 50px;" />
 
 _______________________________________________________
 
