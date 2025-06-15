@@ -85,8 +85,10 @@ _______________________________________________________
 Agar sizda qo‘shimcha g‘oya, taklif yoki pull request bo‘lsa — bemalol!
 
 👨‍💻 Muallif
+
 Made with ❤️ by Gojo Developer
 
 Telegram: @Gojo_Dveloper
+
 GitHub: @nodir-dev
 
