@@ -1,7 +1,7 @@
 cat > README.md <<EOF
 # React Vite Tailwind Starter (CLI Script)
 
-📦 Ushbu bash skript orqali `react` deb terminalda yozish orqali 1 daqiqa ichida tayyor React + Vite + Tailwind loyihasi yaratishingiz mumkin.
+📦 Ushbu bash skript orqali `react` deb terminalda yozish orqali 1 daqiqa ichida tayyor React + Vite + Tailwind + React Router Dom + React-Icons  loyihasi yaratishingiz mumkin.
 
 ## O‘rnatish:
 
