@@ -16,6 +16,11 @@ cd "$projectName"
 npm install > /dev/null 2>&1
 npm install -D tailwindcss postcss autoprefixer @tailwindcss/vite @vitejs/plugin-react > /dev/null 2>&1
 npx tailwindcss init -p > /dev/null 2>&1
+# React Router Dom ni yuklash
+npm install react-router-dom
+
+# React-Icons ni yuklash 
+npm install react-icons
 
 # App.css ni o‘chirish
 rm -f src/App.css
