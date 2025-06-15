@@ -65,10 +65,9 @@ echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.zshrc && source ~/.zshrc
 ```bash
 react
 ```
-________________________________________________________
+
 
 <img src="./assets/.png" alt="Loyiha Ishlash jarayoni" width="700" style="border-radius: 50px;" />
-________________________________________________________
 🧾 Misol natija:
 ```bash
 $ react
