@@ -36,19 +36,24 @@ Loyiha 1 daqiqada tayyor: `Vite`, `TailwindCSS`, `React Router`, `Icons` hammasi
 
 ## 🛠️ O‘rnatish (bir marta)
 
-```bash
+_____________________________________________________________________
 # 1. figlet (banner) o‘rnatish — ixtiyoriy
+```bash
 sudo apt install figlet
+```
 
 # 2. Skriptni yaratish
+```bash
 mkdir -p ~/.local/bin
 nano ~/.local/bin/react
+```
 # ↳ Bu faylga scriptni nusxa ko‘chirib joylang
 
 # 3. Ruxsat berish
+```bash
 chmod +x ~/.local/bin/react
 ```
-
+______________________________________________________________________
 
 🔁 Agar terminal buyruqlarini tanimasa:
 Bash foydalanuvchilari uchun:
