@@ -85,7 +85,7 @@ cd blog && npm run dev
 _______________________________________________________
 
 <img src="./assets/run.png" alt="Loyiha Ishlash jarayoni" width="900" style="border-radius: 50px;" />
-_______________________________________________________
+
 
 🤝 Hissa qo‘shing
 Agar sizda qo‘shimcha g‘oya, taklif yoki pull request bo‘lsa — bemalol!
