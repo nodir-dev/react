@@ -94,7 +94,7 @@ Agar sizda qo‘shimcha g‘oya, taklif yoki pull request bo‘lsa — bemalol!
 
 Made with ❤️ by Gojo Developer
 
-Telegram: @Gojo_Dveloper
+Telegram: @Gojo_Developer
 
 GitHub: @nodir-dev
 ________________________________________________________
